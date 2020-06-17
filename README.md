@@ -1,6 +1,4 @@
-# Examen_SI
-# Pacurar Cristian
-# Grupa 30233
+# Examen_SI, Pacurar Cristian, Grupa 30233
 
 Apasati pe butonul de mai jos pentru rularea codului online.
 
